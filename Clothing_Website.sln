@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clothing_Website", "Clothing_Website\Clothing_Website.csproj", "{3E86E951-828E-4903-B6FB-18C951B2E437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E86E951-828E-4903-B6FB-18C951B2E437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E86E951-828E-4903-B6FB-18C951B2E437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E86E951-828E-4903-B6FB-18C951B2E437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E86E951-828E-4903-B6FB-18C951B2E437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {214654B1-ABDE-4BD2-8737-925CEED1FF83}
+	EndGlobalSection
+EndGlobal
