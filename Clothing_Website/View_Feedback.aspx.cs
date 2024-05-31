@@ -36,7 +36,7 @@ namespace Clothing_Website
        
         protected void Button1_Click(object sender, EventArgs e)
         {
-            SendEmail2("Monikka", "s.monikkasekhar@gmail.com", "lmhb kktg szoq tbfa", "'" + Label2.Text + "'",
+            SendEmail2("subin", "subinproject7@gmail.com", "dvog btjm smae yywm", "'" + Label2.Text + "'",
                 "" + Label7.Text + "", "feedback Reply", "'" + TextBox1.Text + "'");
             string s = "update Feedback set Feedback_Replay='" + TextBox1.Text + "',Status='Sent'" +
                 " where Feedback_Id='" + Session["fid"] + "'";
